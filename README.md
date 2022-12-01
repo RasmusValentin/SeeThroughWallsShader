@@ -14,7 +14,7 @@ This is my (Rasmus Valentin Jacobsen) CGP Shader hand-in. It is a See-Through-Wa
 Built with Unity Editor version 2021.3.9f1
 
  - Clone Git repo or download manually
- - Open the Assets/CGP Miniproject.unity file (Requires Unity version 2021.3 or higher)
+ - Open the Assets/Scenes/CGP Miniproject.unity file (Requires Unity version 2021.3 or higher)
 
 If object materials are not assigned, then the following materials go to these objects:
  - Outline material goes on the Player/Outline object.
